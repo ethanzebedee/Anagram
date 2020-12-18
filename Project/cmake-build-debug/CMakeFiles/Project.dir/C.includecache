@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/goned/OneDrive/Desktop/Project/library.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+stdbool.h
+-
+library.h
+/cygdrive/c/Users/goned/OneDrive/Desktop/Project/library.h
+
+/cygdrive/c/Users/goned/OneDrive/Desktop/Project/library.h
+
+/cygdrive/c/Users/goned/OneDrive/Desktop/Project/read_input.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+stdbool.h
+-
+library.h
+/cygdrive/c/Users/goned/OneDrive/Desktop/Project/library.h
+
